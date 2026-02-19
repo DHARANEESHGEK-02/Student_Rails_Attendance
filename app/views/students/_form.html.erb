@@ -27,6 +27,11 @@
     <%= f.label :email %><br>
     <%= f.email_field :email %>
   </p>
+  <p>
+  <%= f.label :present, "Attendance" %><br>
+  <%= f.check_box :present %> Present
+  </p>
+
 
   <p>
     <%= f.submit %>
@@ -34,5 +39,3 @@
 
 <% end %>
 
-git branch -M main
-git push -u origin main

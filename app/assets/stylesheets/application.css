@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+
+ body {
+  background: linear-gradient(to right, #667eea, #764ba2);
+}
+
+.card {
+  border-radius: 15px;
+  background: #ffffff;
+}
