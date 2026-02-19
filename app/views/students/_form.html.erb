@@ -1,0 +1,38 @@
+<%= form_with(model: @student, local: true) do |f| %>
+
+  <% if @student.errors.any? %>
+    <div style="color: red;">
+      <h3>
+        <%= pluralize(@student.errors.count, "error") %> prohibited this student from being saved:
+      </h3>
+      <ul>
+        <% @student.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <p>
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </p>
+
+  <p>
+    <%= f.label :age %><br>
+    <%= f.number_field :age %>
+  </p>
+
+  <p>
+    <%= f.label :email %><br>
+    <%= f.email_field :email %>
+  </p>
+
+  <p>
+    <%= f.submit %>
+  </p>
+
+<% end %>
+
+git branch -M main
+git push -u origin main
