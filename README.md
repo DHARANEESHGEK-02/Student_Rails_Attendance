@@ -73,8 +73,7 @@
 |---|---|---|
 | **🔐 Authentication** | **👨‍🎓 Student CRUD** | **📝 Attendance** |
 | Devise integration | Add/Edit/Delete | Present/Absent |
-| **📊 Dashboard** | **🔍 Search** | **📥 Export CSV** |
-| Analytics & Charts | Filter students | Download reports |
+| **📊 Dashboard** | **🔍 Search** 
 
 <br>
 
