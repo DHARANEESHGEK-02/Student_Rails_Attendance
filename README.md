@@ -22,35 +22,40 @@
 <div align="center">
 
 ### 🔐 Login Page
-<img src="/home/intellect/Pictures/Screenshots/Screenshot from 2026-02-21 20-29-27.png" alt="Login Page" width="800"/>
+<img width="1357" height="838" alt="Screenshot from 2026-02-21 20-29-27" src="https://github.com/user-attachments/assets/e4519607-a792-4714-b336-7033a5b80b4e" />
+
 <br>
 <sub>*Secure login with Devise authentication*</sub>
 <br>
 <br>
 
 ### 📊 Dashboard
-<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+<img width="1357" height="838" alt="Screenshot from 2026-02-21 20-32-37" src="https://github.com/user-attachments/assets/d1cb31fe-860a-4da1-aaf0-ae12a588cfdf" />
+
 <br>
 <sub>*Analytics dashboard with charts and statistics*</sub>
 <br>
 <br>
 
 ### 👨‍🎓 Students List
-<img src="screenshots/students.png" alt="Students List" width="800"/>
+<img width="1357" height="838" alt="Screenshot from 2026-02-21 20-33-42" src="https://github.com/user-attachments/assets/151d4011-7d53-456d-9531-594fa8f457d3" />
+
 <br>
 <sub>*Manage all students with search and attendance*</sub>
 <br>
 <br>
 
 ### 👤 Student Profile
-<img src="screenshots/profile.png" alt="Student Profile" width="600"/>
+<img width="1357" height="838" alt="Screenshot from 2026-02-21 20-34-24" src="https://github.com/user-attachments/assets/fd0d9d81-726a-4434-bcef-3e3605e4cc61" />
+
 <br>
 <sub>*Detailed student view with attendance history*</sub>
 <br>
 <br>
 
 ### 📝 Mark Attendance
-<img src="screenshots/attendance.png" alt="Mark Attendance" width="800"/>
+<img width="1357" height="838" alt="Screenshot from 2026-02-21 21-03-12" src="https://github.com/user-attachments/assets/a043717e-b3f5-4537-a8b2-a649efd5e54b" />
+
 <br>
 <sub>*Easy present/absent marking with progress bar*</sub>
 <br>
