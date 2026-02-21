@@ -260,6 +260,6 @@ Email:dharaneeshgek1@gmail.com
 
 <br>
 
-**Made with ❤️ using Ruby on Rails**
+
 
 </div>
