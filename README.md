@@ -17,6 +17,49 @@
 
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🔐 Login Page
+<img src="screenshots/login.png" alt="Login Page" width="800"/>
+<br>
+<sub>*Secure login with Devise authentication*</sub>
+<br>
+<br>
+
+### 📊 Dashboard
+<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+<br>
+<sub>*Analytics dashboard with charts and statistics*</sub>
+<br>
+<br>
+
+### 👨‍🎓 Students List
+<img src="screenshots/students.png" alt="Students List" width="800"/>
+<br>
+<sub>*Manage all students with search and attendance*</sub>
+<br>
+<br>
+
+### 👤 Student Profile
+<img src="screenshots/profile.png" alt="Student Profile" width="600"/>
+<br>
+<sub>*Detailed student view with attendance history*</sub>
+<br>
+<br>
+
+### 📝 Mark Attendance
+<img src="screenshots/attendance.png" alt="Mark Attendance" width="800"/>
+<br>
+<sub>*Easy present/absent marking with progress bar*</sub>
+<br>
+<br>
+
+---
+
+</div>
+
 ## ✨ Features
 
 <div align="center">
@@ -41,25 +84,6 @@
 **Backend:** Ruby 3.1.4, Rails 6.1.7, SQLite3  
 **Frontend:** Bootstrap 5.3, Chart.js  
 **Authentication:** Devise 4.9  
-**Others:** Webpacker, Yarn
-
-<br>
-
----
-
-</div>
-
-## 📋 Prerequisites
-
-<div align="center">
-
-```
-Ruby 3.1.4 or higher
-Rails 6.1.7 or higher
-SQLite3
-Node.js
-Yarn
-```
 
 <br>
 
@@ -149,8 +173,14 @@ student_management/
 │           └── application.css
 ├── config/
 │   └── routes.rb
-└── db/
-    └── migrate/
+├── db/
+│   └── migrate/
+└── screenshots/          📸 Your screenshots here
+    ├── login.png
+    ├── dashboard.png
+    ├── students.png
+    ├── profile.png
+    └── attendance.png
 ```
 
 <br>
@@ -187,10 +217,19 @@ student_management/
 - ✅ Statistics cards
 - ✅ Monthly filter
 
-### 📱 Responsive Design
-- ✅ Mobile friendly
-- ✅ Tablet support
-- ✅ Desktop optimized
+<br>
+
+---
+
+</div>
+
+## 📱 Responsive Design
+
+<div align="center">
+
+| Mobile | Tablet | Desktop |
+|--------|--------|---------|
+| 📱 Works | 💻 Works | 🖥️ Works |
 
 <br>
 
@@ -205,17 +244,9 @@ student_management/
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/` | Home page |
-| GET | `/dashboard` | Dashboard with charts |
-| GET | `/students` | List all students |
-| GET | `/students/new` | Add new student |
-| POST | `/students` | Create student |
-| GET | `/students/:id` | Show student |
-| GET | `/students/:id/edit` | Edit student |
-| PATCH | `/students/:id` | Update student |
-| DELETE | `/students/:id` | Delete student |
+| GET | `/dashboard` | Dashboard |
+| GET | `/students` | List students |
 | POST | `/students/:id/mark_attendance` | Mark attendance |
-| GET | `/users/sign_in` | Login |
-| GET | `/users/sign_up` | Sign up |
 | DELETE | `/users/sign_out` | Logout |
 
 <br>
@@ -228,25 +259,11 @@ student_management/
 
 <div align="center">
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<br>
-
----
-
-</div>
-
-## 📄 License
-
-<div align="center">
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+2. Create feature branch
+3. Commit changes
+4. Push to branch
+5. Open Pull Request
 
 <br>
 
@@ -266,25 +283,9 @@ Project Link: [https://github.com/yourusername/student_management](https://githu
 
 ---
 
-</div>
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-- Ruby on Rails community
-- Bootstrap team
-- Chart.js contributors
-- Devise team
-
-<br>
 <br>
 
 ### ⭐ If you like this project, please give it a star!
-
-<br>
-
----
 
 <br>
 
