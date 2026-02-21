@@ -22,7 +22,7 @@
 <div align="center">
 
 ### 🔐 Login Page
-<img src="screenshots/login.png" alt="Login Page" width="800"/>
+<img src="/home/intellect/Pictures/Screenshots/Screenshot from 2026-02-21 20-29-27.png" alt="Login Page" width="800"/>
 <br>
 <sub>*Secure login with Devise authentication*</sub>
 <br>
@@ -150,44 +150,7 @@ http://localhost:3000
 
 </div>
 
-## 📁 Project Structure
 
-<div align="center">
-
-```
-student_management/
-├── app/
-│   ├── controllers/
-│   │   ├── students_controller.rb
-│   │   ├── attendances_controller.rb
-│   │   └── dashboard_controller.rb
-│   ├── models/
-│   │   ├── student.rb
-│   │   └── attendance.rb
-│   ├── views/
-│   │   ├── students/
-│   │   ├── dashboard/
-│   │   └── devise/
-│   └── assets/
-│       └── stylesheets/
-│           └── application.css
-├── config/
-│   └── routes.rb
-├── db/
-│   └── migrate/
-└── screenshots/          📸 Your screenshots here
-    ├── login.png
-    ├── dashboard.png
-    ├── students.png
-    ├── profile.png
-    └── attendance.png
-```
-
-<br>
-
----
-
-</div>
 
 ## 🎯 Features in Detail
 
