@@ -242,9 +242,13 @@ http://localhost:3000
 
 <div align="center">
 
-**Dharaneesh**
+**Dharaneesh GEK**
 
 Project Link: [https://github.com/yourusername/student_management](https://github.com/yourusername/student_management)
+
+LinkedIn: https://www.linkedin.com/in/dharaneesh-gek-897761356/
+
+Email:dharaneeshgek1@gmail.com
 
 <br>
 
